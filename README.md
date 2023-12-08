@@ -7,7 +7,7 @@ This API allows you to perform CRUD operations on tasks. It is built using Djang
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-management-api.git
+   git clone https://github.com/nandishbt/task-management-api.git
    cd task-management-api
 
 
